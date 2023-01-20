@@ -1117,7 +1117,7 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-"manta.js@file:../../sdk/manta-js/package":
+"manta.js@file:../sdk/manta-js/package":
   version "0.0.0"
   dependencies:
     "@polkadot/api" "6.8.1"
