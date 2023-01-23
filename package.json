@@ -6,7 +6,7 @@
     "manta.js": "file:../sdk/manta-js/package"
   },
   "scripts": {
-    "test": "rm src/index.js && tsc && node --es-module-specifier-resolution=node src/index.js"
+    "test": "rm src/index.js && tsc && node src/index.js"
   },
   "type": "module"
 }
