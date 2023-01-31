@@ -1,4 +1,4 @@
-import { MantaPrivateWallet, Environment, Network } from 'manta.js'
+import { MantaPrivateWallet, Environment, Network } from 'manta.js/node'
 // ES Module
 import fetch from 'node-fetch';
 

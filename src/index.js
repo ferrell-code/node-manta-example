@@ -7,7 +7,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-import { MantaPrivateWallet, Environment, Network } from 'manta.js';
+import { MantaPrivateWallet, Environment, Network } from 'manta.js/node';
 // ES Module
 import fetch from 'node-fetch';
 // @ts-ignore
