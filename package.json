@@ -6,7 +6,7 @@
     "manta.js": "3.0.0"
   },
   "scripts": {
-    "test": "tsc && node src/index.js"
+    "script": "tsc && node src/index.js"
   },
   "type": "module"
 }
