@@ -3,10 +3,10 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
-    "manta.js": "file:../sdk/manta-js/package"
+    "manta.js": "3.0.0"
   },
   "scripts": {
-    "test": "rm src/index.js && tsc && node src/index.js"
+    "test": "tsc && node src/index.js"
   },
   "type": "module"
 }
